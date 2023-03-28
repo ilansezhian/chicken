@@ -1,0 +1,8 @@
+red
+black
+saffron
+white
+green
+yellow
+blue
+gray
